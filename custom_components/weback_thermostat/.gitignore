@@ -1,3 +1,5 @@
 weback_creds
 __pycache__/
 ../.idea/
+wb_creds
+*.swp

@@ -1,0 +1,13 @@
+{
+    "domain": "weback_thermostat",
+    "name": "WeBack Thermostat",
+    "codeowners": [
+      "@imperialsecond"
+    ],
+    "config_flow": true,
+    "documentation": "https://github.com/imperialsecond/homeassistant-weback-ck-002/blob/main/README.md",
+    "iot_class": "cloud_polling",
+    "issue_tracker": "https://github.com/imperialsecond/homeassistant-weback-ck-002/issues",
+    "requirements": [],
+    "version": "1.0"
+  }

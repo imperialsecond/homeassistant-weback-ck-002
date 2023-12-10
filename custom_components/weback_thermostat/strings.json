@@ -1,0 +1,15 @@
+{
+	"config": {
+		"step": {
+			"user": {
+				"data": {
+					"username": "WeBack email address",
+					"password": "WeBack password",
+					"region": "Region code (country calling code, e.g. 1 for US)"
+				},
+				"description": "Enter your WeBack credentials",
+				"title": "WeBack login"
+			}
+		}
+	}
+}
